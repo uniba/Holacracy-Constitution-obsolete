@@ -1,5 +1,16 @@
 # Introduction: Holacracy® Constitution
 
+### 日本語訳
+
+ホラクラシー憲法 v5.0 (正式版) を日本語しています。
+過去のバージョン(v5.0-beta)は現在メンテナンスを行っていません。
+
+邦訳版は <a href="./Holacracy-Constitution.ja.md" target="_blank">Holacracy-Constitution.ja.md</a> にあります。
+固有表現などの対訳表は<a href="./Translation-Note.ja.md" target="_blank">こちら</a>。
+本家様のライセンスに従い、日本語訳バージョンもまたクリエイティブ・コモンズ(CC BY-SA 4.0)でライセンスされています。
+
+翻訳者: [Ryota Suzuki](https://github.com/nunukim)
+
 ### What is the Holacracy Constitution?
 
 The Holacracy Constitution documents the core rules, structure, and processes of the Holacracy framework for governing and managing an organization. It provides the foundation needed for Holacracy practice, by anchoring the target power shift in concrete and documented “rules of the game”.
@@ -24,14 +35,6 @@ Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson a
 Contributors to v4.1 include Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen and Jeffrey Anthony.
 
 For a list of contributors to v5.0, please see the history of submissions to the Constitution's GitHub repo and issue database.
-
-### 日本語訳
-
-日本語訳バージョンは <a href="./Holacracy-Constitution.ja.md" target="_blank">Holacracy-Constitution.ja.md</a> にあります。
-固有表現などの対訳表は<a href="./Translation-Note.ja.md" target="_blank">こちら</a>。
-本家様のライセンスに従い、日本語訳バージョンもまたクリエイティブ・コモンズ(CC BY-SA 4.0)でライセンスされています。
-
-翻訳者: [Ryota Suzuki](https://github.com/nunukim)
 
 ---
 
